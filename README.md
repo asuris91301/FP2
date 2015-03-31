@@ -12,8 +12,10 @@ Code I wrote:
 
 ```
 #lang racket
-
 (require games/cards)
+(define table (make-table "test" 5 2)); defines a table of 5x2
+(send table show #t) ; shows the table which is empty initially
+
 ```
 
 
