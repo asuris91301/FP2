@@ -1,23 +1,18 @@
-# Final Project Assignment 2: Explore One More! (FP2) 
-DUE March 30, 2015 Monday (2015-03-30)
+### My Library:  games/cards
 
-This is just like FP1, but where you do a different library. (Full description of FP1 is [on Piazza.][piazza])
+narrative
 
-During this assignment, you should start looking for teammates. See the project schedule [on Piazza.][schedule]
+The games/cards module provides a toolbox for creating card games.
 
-Write your report right in this file. Instructions are below. You can delete them if you like, or just leave them at the bottom.
-You are allowed to change/delete anything in this file to make it into your report. It will be public.
+Code I wrote:
 
-This file is formatted with the [**markdown** language][markdown], so take a glance at how that works.
-
-This file IS your report for the assignment, including code and your story.
-
-Code is super easy in markdown, which you can easily do inline `(require net/url)` or do in whole blocks:
 ```
 #lang racket
 
-(require net/url)
+(require games/cards)
 ```
+
+
 
 ### My Library: (library name here)
 Write what you did!
