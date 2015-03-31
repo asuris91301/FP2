@@ -1,10 +1,14 @@
 ### My Library:  games/cards
 
-narrative
+Narrative:
+
+---------
 
 The games/cards module provides a toolbox for creating card games.
 
 Code I wrote:
+
+-------------
 
 ```
 #lang racket
