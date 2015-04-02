@@ -18,6 +18,8 @@ Code I wrote:
 ```
 [This will display empty table: ](http://weblab.cs.uml.edu/~asuriset/91301/FP2picture1.png)
 
+[a relative link](FP2picture1.png)
+
 ```
 (define my-deck (make-deck))
 (send table add-cards my-deck 1 1)
